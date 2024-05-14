@@ -1,0 +1,8 @@
+[package]
+name = "zenver"
+version = "1.0.0" # why don't you support ZenVer, cargo?
+edition = "2021"
+
+[lib]
+name = "zenver"
+path = "src/lib.rs"
